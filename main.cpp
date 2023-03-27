@@ -4,18 +4,18 @@
 using namespace std;
 
 
-//int main() {
-//
-//    int m1 = 3, m2 = 4, m3 = 2;
-//    double  a = 45.50, b = 17.40, c = 31.50, A = a*m1, B = b*m2, C = c*m3;
-//    printf("Масло за %d кг коштуе %f\n", m1, A);
-//    printf("Сметана за %d кг коштуе %f\n", m2, B);
-//    printf("Вершки за %d кг коштують %f\n", m3, C);
-//    printf("Масло, вершки та сметана у сумі коштуе %f\n", A+B+C);
-//    return 0;
-//
-//
-//}
+int main() {
+
+   int m1 = 3, m2 = 4, m3 = 2;
+   double  a = 45.50, b = 17.40, c = 31.50, A = a*m1, B = b*m2, C = c*m3;
+   printf("Масло за %d кг коштуе %f\n", m1, A);
+   printf("Сметана за %d кг коштуе %f\n", m2, B);
+   printf("Вершки за %d кг коштують %f\n", m3, C);
+   printf("Масло, вершки та сметана у сумі коштуе %f\n", A+B+C);
+   return 0;
+
+
+}
 //
 //int main() {
 //    double  a = 45.50, b = 17.40, c = 31.50, A, B, C, D;
