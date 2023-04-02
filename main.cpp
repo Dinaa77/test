@@ -16,26 +16,26 @@ int main() {
 
 
 }
-//
-//int main() {
-//    double  a = 45.50, b = 17.40, c = 31.50, A, B, C, D;
-//    int  m1, m2, m3;
-//    printf("m1: ");
-//    scanf("%d", &m1);
-//    printf("m2: ");
-//    scanf("%d", &m2);
-//    printf("m3: ");
-//    scanf("%d", &m3);
-//    A=m1*a;
-//    B=m2*b;
-//    C=m3*c;
-//    D=A+B+C;
-//    printf("A = %lf\n", A);
-//    printf("B = %lf\n", B);
-//    printf("C = %lf\n", C);
-//    printf("D = %lf\n", D);
-//    return 0;
-//}
+
+int main() {
+   double  a = 45.50, b = 17.40, c = 31.50, A, B, C, D;
+   int  m1, m2, m3;
+   printf("m1: ");
+   scanf("%d", &m1);
+   printf("m2: ");
+   scanf("%d", &m2);
+   printf("m3: ");
+   scanf("%d", &m3);
+   A=m1*a;
+   B=m2*b;
+   C=m3*c;
+   D=A+B+C;
+   printf("A = %lf\n", A);
+   printf("B = %lf\n", B);
+   printf("C = %lf\n", C);
+   printf("D = %lf\n", D);
+   return 0;
+}
 
 //int main(){
 //    int m1 = 3, m2 = 4, m3 = 2;
